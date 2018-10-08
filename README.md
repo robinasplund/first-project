@@ -1,2 +1,2 @@
 # first-project
-zup
+zup yo
